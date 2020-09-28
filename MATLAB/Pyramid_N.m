@@ -1,3 +1,4 @@
+#codegen
 function [Pyramid,Expanded_P] = Pyramid_N(i,v,l,ang_GP,list_RA,list_P,list_N,list_N_in_P)
 %PYRAMID_P Summary of this function goes here
 %   Detailed explanation goes here

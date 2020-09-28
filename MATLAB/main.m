@@ -1,4 +1,5 @@
-close all; clear all; clc;
+
+close all; clc;
 %% loading file
 [v, l, ~]=obj_input('Input.obj');
 

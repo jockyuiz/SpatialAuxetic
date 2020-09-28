@@ -49,8 +49,8 @@ while ~isempty(cand)
     end
     f=ff;
 end
-% plot(v(l(list_RA,1),1),v(l(list_RA,1),2),'r*')
-% plot(v(l(list_RA,2),1),v(l(list_RA,2),2),'ro')
+%plot(v(l(list_RA,1),1),v(l(list_RA,1),2),'r*')
+plot(v(l(list_RA,2),1),v(l(list_RA,2),2),'ro')
 %% derive the angle of gap
 z=[0 0 -1];
 ang_GP=zeros(size(list_RA));
